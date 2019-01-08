@@ -33,7 +33,7 @@ class HomePageState extends State<HomePage> {
     return Scaffold(
       resizeToAvoidBottomPadding: false,
       appBar: AppBar(
-        title: Text('TimerApp'),
+        title: Text('TimeStudyApp'),
       ),
       body: Material(
         child: Column(
